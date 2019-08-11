@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 40px;
+}
+
+#map {
+    width: 100%;
+    height: 661px !important;
+    border: 2px solid #880E4F;
+}
+
+.info-window {
+    font-family: 'Montserrat', sans-serif;
+}
+.info-content {
+    color: #999;
+}
+
